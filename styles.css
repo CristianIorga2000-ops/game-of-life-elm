@@ -1,0 +1,21 @@
+body,
+div:first-child {
+  margin: 0;
+  height: 100vh;
+
+}
+
+
+/* .canvas-container{
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+} */
+
+button {
+    background-color: rgb(69, 98, 194);
+    font-weight: bolder;
+    font-size: 1.1em;
+    color: white;
+    border-radius: 30px;
+}
